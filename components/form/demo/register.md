@@ -98,7 +98,7 @@ class RegistrationForm extends React.Component {
 
     const formItemLayout = {
       labelCol: {
-        xs: { span: 24 },
+        xs: { span: 16 },
         sm: { span: 8 },
       },
       wrapperCol: {
